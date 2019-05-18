@@ -27,6 +27,7 @@ gem 'jbuilder', '~> 2.5'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
+gem 'bootstrap-sass', '~> 3.4', '>= 3.4.1'
 gem 'jquery-rails', '~> 4.3'
 gem 'bootstrap', '~> 4.3.1'
 gem 'simple_form', '~> 4.1'
@@ -36,7 +37,10 @@ gem 'tilt', '~> 2.0', '>= 2.0.9'
 gem 'pry', '~> 0.10.4'
 gem 'rb-readline', '~> 0.5.5'
 gem 'minitest', '~> 5.11', '>= 5.11.3'
-
+gem 'font-awesome-rails'
+gem 'mini_racer', '~> 0.1.14'	
+gem 'jquery-easing-rails'
+gem 'less-rails-bootstrap'
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
 
